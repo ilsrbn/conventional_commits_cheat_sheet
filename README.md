@@ -1,4 +1,3 @@
-# conventional_commits_cheat_sheet
 ### Types
 * API relevant changes
     * `feat` Commits, that adds or remove a new feature
